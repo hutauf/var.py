@@ -12,3 +12,5 @@ Then run the var.py-script, which will create a new script file for every inputf
 
 Also works for multiple variables, like inputfiles and settings for example.
 
+The cool thing is it also works great on large files, as it will read the files line-by-line and not the complete file at once!
+
